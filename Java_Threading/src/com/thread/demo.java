@@ -23,6 +23,9 @@ public class demo {
 
 		MyClass myClass1 = new MyClass();
 		myClass1.start();
+		
+		MyClass myClass2 = new MyClass();
+		myClass2.start();
 
 	}
 }
