@@ -20,6 +20,6 @@ public class demo {
 		Thread t2 = new Thread(new MyClass());
 		t1.start();
 		t2.start();
-
+		//New Comment Section addded....
 	}
 }
