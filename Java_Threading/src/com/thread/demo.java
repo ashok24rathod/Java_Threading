@@ -27,5 +27,7 @@ public class demo {
 		MyClass myClass2 = new MyClass();
 		myClass2.start();
 
+		MyClass myClass3 = new MyClass();
+		myClass3.start();
 	}
 }
