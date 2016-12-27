@@ -7,6 +7,7 @@ public class demo {
 		count++;
 	}
 
+	//this change implemented for checking the creating new branch feature.
 	public static void main(String[] args) {
 		Thread t1 = new Thread(new Runnable() {
 
