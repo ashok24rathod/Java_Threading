@@ -5,6 +5,7 @@ public class demo {
 
 	public static synchronized void incount() {
 		count++;
+		//this is the new branch  created with stash operation.
 	}
 
 	//this change implemented for checking the creating new branch feature.
